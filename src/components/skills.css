@@ -1,0 +1,13 @@
+
+.skill{
+    
+    text-align: justify;
+}
+
+
+@media screen and (min-width: 768px) {
+    .skill{
+        margin: auto 15% auto 15%;
+        text-align: justify;
+    } 
+}

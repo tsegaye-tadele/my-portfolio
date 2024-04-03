@@ -1,0 +1,10 @@
+.custom-button {
+    background-color: rgb(199, 18, 199); 
+    transition: box-shadow 0.3s ease; 
+  }
+  
+  .custom-button:hover {
+    box-shadow: 0 4px 8px rgba(18, 233, 161, 0.3); 
+    background-color: rgb(199, 18, 199);
+  }
+  
